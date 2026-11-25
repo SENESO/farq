@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>Seneso.Farq</PackageId>
+    <Authors>Eslam Ashraf</Authors>
+    <Description>Line-based diff and patch for .NET: Myers O(ND) edit script, unified diff formatting, and exact patch application.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/SENESO/farq</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
